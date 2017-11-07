@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ethanlindley/someserver/issues"
   },
-  "homepage": "https://github.com/ethanlindley/someserver#readme"
+  "homepage": "https://github.com/ethanlindley/someserver#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
