@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ethanlindley/someserver#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "http-errors": "^1.6.2"
   }
 }
