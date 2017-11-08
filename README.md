@@ -1,5 +1,5 @@
-# someserver
-something idk
+ # someserver
+the word of the lord endures forever
 
 ## getting setup
 * make sure you have node.js installed from [here](https://nodejs.org/en/ "Node.js website") (v8.9.1 LTS)
