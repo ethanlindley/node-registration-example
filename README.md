@@ -7,3 +7,10 @@ something idk
 * `cd someserver`
 * `git clone https://github.com/ethanlindley/someserver.git .`
 * `npm install`
+
+* `brew install mongo mongodb`
+* `sudo mkdir -p /data/db`
+
+* open two tabs in terminal
+* in one tab, run `sudo mongod`
+* in the other, run `node main.js`
